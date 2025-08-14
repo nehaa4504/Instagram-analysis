@@ -1,0 +1,15 @@
+INSTAGRAM-ANALYSIS-MAIN
+└── Processed-dataset
+    ├── category_agg.csv
+    ├── category_stats.csv
+    ├── cleaned_instagram_influencers.csv
+    ├── country_agg.csv
+    ├── dataset.csv
+    ├── geo_stats.csv
+    ├── set
+    ├── tier_agg.csv
+    ├── transformed_instagram_influencers.csv
+└── app.py
+└── Instagram-Analysis.ipynb
+└── requirements.txt
+└── social media influencers - instagram sep-2022.csv
